@@ -1,358 +1,448 @@
-<div align="center">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Raveendran%20Jathugulan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Software%20Engineering%20Student&descAlignY=58&descSize=17" width="100%"/><br/><a href="https://github.com/raveendranjathugulan">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1100&color=2C5364&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+(MERN);Building+Scalable+Web+Applications;REST+API+%7C+MongoDB+%7C+React;Cloud+%7C+DevOps+%7C+System+Design;Open+to+Internships+%26+Collaboration" />
+</a><br/><br/>
 
-<!-- ============ HERO ============ -->
+<a href="https://github.com/raveendranjathugulan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/raveendranjathugulan">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:jathugulan2022@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Raveendran%20Jathugulan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20(MERN)%20%7C%20Software%20Engineering%20Student&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=raveendranjathugulan&label=Profile%20Views&color=2c5364&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/raveendranjathugulan?label=Followers&style=for-the-badge&color=2c5364"/></div>---
 
-<br/>
+👋 About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN+Stack);Software+Engineering+Student;Building+Scalable+Web+Applications;Open+to+Internships+%26+Collaboration)](https://git.io/typing-svg)
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/raveendranjathugulan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/raveendranjathugulan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:jathugulan2022@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=raveendranjathugulan&label=Profile%20Views&color=2c5364&style=flat" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/raveendranjathugulan?label=Followers&style=flat&color=2c5364" alt="followers"/>
-
-</div>
-
-<br/>
-
-> **Note:** Replace `raveendranjathugulan` with your actual GitHub username throughout this file, and swap the `#` placeholders (Portfolio, Live Demo, Twitter/X) with your real links once available.
-
----
-
-## 💫 About Me
-
-```javascript
-const raveendran = {
-    role: "Full Stack Developer (MERN Stack)",
-    location: "Point Pedro, Northern Province, Sri Lanka",
+const developer = {
+    name: "Raveendran Jathugulan",
+    role: "Full Stack Developer",
+    specialization: "MERN Stack",
     education: "BICT (Hons.) — University of Vavuniya",
-    currentFocus: ["Advanced MERN Stack", "System Design", "Cloud Computing"],
-    interests: ["UI/UX Design", "Data Analytics", "Artificial Intelligence"],
-    careerGoal: "Become a professional Full Stack Developer building scalable, real-world SaaS products",
-    funFact: "Enjoys building platforms that connect people directly — e.g. farmer-to-customer digital solutions"
+    location: "Point Pedro, Northern Province, Sri Lanka",
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "PHP",
+        "REST APIs"
+    ],
+
+    frontend: [
+        "React",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Bootstrap",
+        "Tailwind CSS"
+    ],
+
+    databases: [
+        "MongoDB",
+        "MySQL",
+        "PostgreSQL"
+    ],
+
+    interests: [
+        "System Design",
+        "Cloud Computing",
+        "DevOps",
+        "AI Integration",
+        "Data Analytics"
+    ],
+
+    goal:
+        "Build scalable, secure and production-ready software products"
 };
-```
 
-- 🎓 Undergraduate pursuing a **Bachelor of Information and Communication Technology (Honours)** at the University of Vavuniya, Faculty of Technological Studies.
-- 💻 Hands-on experience building responsive, real-world web applications with the **MERN** and **MEAN** stacks, **PHP**, and **MySQL**.
-- 🔐 Proven ability to design secure authentication systems, admin dashboards, and RESTful/MVC architectures through academic and personal projects.
-- 🌱 Actively exploring **open-source contribution** as a way to sharpen collaborative engineering skills and give back to the developer community.
-- 🎯 Currently seeking an **internship** to apply and grow technical skills in a professional software development environment.
-
----
-
-## 🎓 Education
-
-<table width="100%">
-<tr>
-<td width="70%">
-
-**Bachelor of Information and Communication Technology (Honours)**
-University of Vavuniya, Faculty of Technological Studies, Sri Lanka
-`2022 — Present`
-
-Relevant coursework: Web & Software Engineering, Database Management Systems, Object-Oriented Programming, Data Structures & Algorithms, DevOps Fundamentals, Human-Computer Interaction.
-
-**G.C.E. Advanced Level**
-Hartley College, Point Pedro
-
-</td>
-<td width="30%" align="center">
-
-🏅 **Certifications completed:** 8+
-🏆 **Internships completed:** 2
-📜 **Active learner:** MERN / MEAN / DevOps / AI
-
-</td>
-</tr>
-</table>
+- 🎓 BICT (Hons.) undergraduate at the University of Vavuniya
+- 💻 Building full-stack web applications using MERN, PHP and MySQL
+- 🔐 Interested in authentication, RBAC, REST APIs and secure application architecture
+- 🚀 Exploring cloud deployment, DevOps and scalable system design
+- 🌱 Learning through real-world projects and open-source development
+- 🎯 Open to software engineering internships and collaboration
 
 ---
 
-## 🛠️ Technical Skills
+📊 Developer Dashboard
 
-**Frontend**
+<!-- AUTO:PROFILE_STATS:START -->Metric| Current
+📦 Public Repositories| Updating automatically
+⭐ Total Stars| Updating automatically
+🍴 Total Forks| Updating automatically
+👥 Followers| Updating automatically
+📝 Total Commits| Updating automatically
+🔀 Pull Requests| Updating automatically
+🐛 Issues| Updating automatically
+📅 Active Since| Updating automatically
 
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+<!-- AUTO:PROFILE_STATS:END -->---
 
-**Backend**
+🧠 Technology Stack
 
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![PHP](https://skillicons.dev/icons?i=php)
-![Spring Boot](https://skillicons.dev/icons?i=spring)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+💻 Programming Languages
 
-**Database**
+<!-- AUTO:LANGUAGE_PERCENTAGES:START -->Technology| Usage
+JavaScript| ░░░░░░░░░░ 0%
+PHP| ░░░░░░░░░░ 0%
+Python| ░░░░░░░░░░ 0%
+Java| ░░░░░░░░░░ 0%
+C#| ░░░░░░░░░░ 0%
 
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+«Percentages are calculated automatically from repository language statistics.»
 
-**Programming Languages**
+<!-- AUTO:LANGUAGE_PERCENTAGES:END -->🎨 Frontend
 
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![C#](https://skillicons.dev/icons?i=cs)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />⚙️ Backend
 
-**Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,spring" />🗄️ Databases
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Docker](https://skillicons.dev/icons?i=docker)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Figma](https://skillicons.dev/icons?i=figma)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />🛠️ Tools
 
-**Cloud & Deployment**
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />☁️ Cloud & Deployment
 
-![Vercel](https://skillicons.dev/icons?i=vercel)
-![Netlify](https://skillicons.dev/icons?i=netlify)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Firebase](https://skillicons.dev/icons?i=firebase)
+<img src="https://skillicons.dev/icons?i=vercel,netlify,aws,firebase" />---
 
-**Security & Architecture**
+📈 Technology Proficiency
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![bcrypt](https://img.shields.io/badge/bcrypt-338033?style=flat-square)
-![RBAC](https://img.shields.io/badge/RBAC-4B4B4B?style=flat-square)
-![MVC](https://img.shields.io/badge/MVC%20Architecture-2C5364?style=flat-square)
+<!-- AUTO:TECH_PROFICIENCY:START -->Area| Level
+Frontend Development| ████████░░ 80%
+Backend Development| ████████░░ 80%
+Database Development| ███████░░░ 70%
+REST API Development| ████████░░ 80%
+Authentication & RBAC| ███████░░░ 70%
+Git & GitHub| ████████░░ 80%
+Docker / DevOps| ██████░░░░ 60%
+Cloud Deployment| ██████░░░░ 60%
+System Design| █████░░░░░ 50%
+AI Integration| █████░░░░░ 50%
 
----
+«These are development proficiency indicators, not formal certification scores.»
 
-## 🌟 Featured Projects
+<!-- AUTO:TECH_PROFICIENCY:END -->---
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+🚀 All Projects — Automatically Updated
 
-### 🚗 Vehicle Rental & Booking System
-*Individual Project — 2025*
+«Every public repository can be discovered through GitHub API and displayed here automatically.»
 
-Full-stack booking platform for cars, three-wheelers, and bikes, built for ICTExpo 4.0 internal evaluation.
+<!-- AUTO:ALL_PROJECTS:START -->Project| Description| Stack| ⭐| 🍴| Updated
+🔄 Scanning repositories...| GitHub Actions will populate this section automatically.| —| —| —| —
 
-**Tech Stack:** MongoDB · Express.js · React.js · Node.js
+<!-- AUTO:ALL_PROJECTS:END -->---
 
-**Key Features**
-- Secure JWT/bcrypt authentication with Role-Based Access Control
-- Real-time vehicle booking & availability management
-- Admin dashboard for users, vehicles, and bookings
-- Responsive UI with RESTful/MVC architecture
+⭐ Featured Projects
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#) [![Demo](https://img.shields.io/badge/Live%20Demo-2C5364?style=flat-square&logo=vercel&logoColor=white)](#)
+<!-- AUTO:FEATURED_PROJECTS:START -->🚀 Projects are automatically selected from your repositories
 
-</td>
-<td width="50%" valign="top">
+The automation engine can prioritize repositories using:
 
-### 🎓 Alumni Management System
-*Group Project — 2026*
+- ⭐ Stars
+- 🔥 Recent activity
+- 📝 README quality
+- 🏷️ Topics
+- 💻 Technology stack
+- 🚀 Deployment URL
+- 📦 Repository completeness
 
-Centralized platform to manage alumni records and strengthen university–alumni engagement.
+<!-- AUTO:FEATURED_PROJECTS:END -->---
 
-**Tech Stack:** PHP · MySQL · HTML · CSS · JavaScript
+📊 Project Health & Engineering Analysis
 
-**Key Features**
-- Secure alumni registration, login & profile management
-- Admin approval workflow for new accounts
-- Admin dashboard for records, events & announcements
-- Search and filter by faculty and graduation year
+<!-- AUTO:PROJECT_ANALYSIS:START -->Project| Activity| Documentation| Code| Deployment| Health
+Automatic analysis pending| —| —| —| —| 🔄
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#) [![Demo](https://img.shields.io/badge/Live%20Demo-2C5364?style=flat-square&logo=vercel&logoColor=white)](#)
+<!-- AUTO:PROJECT_ANALYSIS:END -->Project Health Formula
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💊 PharmaNova — Pharmacy Billing & Stock Management
-*Group Project — 2025*
-
-Desktop-based pharmacy management system for billing, inventory control, and stock tracking.
-
-**Tech Stack:** C# · .NET Framework
-
-**Key Features**
-- Sales reporting dashboards
-- Real-time inventory monitoring for data-driven decisions
-- Contributed to UI development, backend logic & database management
-
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚧 Next Up
-*In Planning*
-
-Expanding into **E-Learning Platform** and **AI-integrated application** builds as part of ongoing MERN/AI upskilling.
-
-**Planned Stack:** MERN · REST APIs · AI Integration
-
-[![GitHub](https://img.shields.io/badge/Coming%20Soon-2C5364?style=flat-square&logo=github&logoColor=white)](#)
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Work Experience
-
-```text
-2026 ─┬─ Full Stack Web Development Intern — Pantech.AI (Online)
-      │  3-Month Internship | Credential ID: WW_3FSWD_OL_6874
-      │  Structured internship covering full stack web development
-      │  practices and real-world application building.
+Project Health
       │
-2026 ─┴─ Full Stack Development Intern — NoviTech R&D Pvt Ltd (Online)
-         1-Month Internship | Credential ID: FSDIN6006
-         Practical exposure to full stack development workflows
-         through a focused, hands-on programme.
-```
+      ├── Repository activity
+      ├── Recent commits
+      ├── README quality
+      ├── Technology detection
+      ├── Deployment availability
+      ├── Issues / PR activity
+      └── Repository completeness
 
 ---
 
-## 🏅 Achievements & Certifications
+🔥 Development Activity
 
-| Certification | Provider | Date |
-|---|---|---|
-| 30 Days – MasterClass in Full Stack Development | NoviTech R&D Pvt Ltd | Jun 2026 |
-| Web Design for Beginners | University of Moratuwa | Mar 2026 |
-| Artificial Intelligence | Pantech.AI | Feb 2026 |
-| Professional Certificate in DevOps | Udemy | Jan 2026 |
-| Introduction to MERN Stack | Simplilearn | Dec 2025 |
-| Introduction to MEAN Stack | Simplilearn | Dec 2025 |
-| Tech for Everyone | Sololearn | Nov 2025 |
-| Frontend Development | L4L Institute of Computing | Aug 2025 |
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=raveendranjathugulan&theme=tokyo-night&hide_border=true&area=true" width="100%"/><br/><br/>
 
-**Additional coursework:** Introduction to C · Think Creatively with AI · Front-end for Beginners · C++ Tutorial · JavaScript (Basic)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raveendranjathugulan&theme=tokyonight&hide_border=true" width="70%"/></div>---
 
----
+📅 Recent Development Work
 
-## 📊 GitHub Analytics
+<!-- AUTO:RECENT_ACTIVITY:START -->Date| Repository| Activity
+🔄| Loading GitHub activity...| Automatically updated
 
-<div align="center">
+<!-- AUTO:RECENT_ACTIVITY:END -->---
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=raveendranjathugulan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveendranjathugulan&layout=compact&theme=tokyonight&hide_border=true" />
+📦 Repository Portfolio
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raveendranjathugulan&theme=tokyonight&hide_border=true" />
+<!-- AUTO:REPOSITORY_SUMMARY:START -->Repository Portfolio
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raveendranjathugulan&theme=tokyo-night&hide_border=true" width="100%"/>
+Public Repositories     : Updating...
+Active Projects         : Updating...
+Archived Projects       : Updating...
+Forked Projects         : Updating...
+Recently Updated        : Updating...
 
-</div>
+<!-- AUTO:REPOSITORY_SUMMARY:END -->---
 
----
+🧩 Project Categories
 
-## 🐍 Contribution Activity
+<!-- AUTO:PROJECT_CATEGORIES:START -->Web Applications       ██████████░░
+MERN Applications      ████████░░░░
+PHP / MySQL Systems    ██████░░░░░░
+Desktop Applications   ████░░░░░░░░
+AI / Data Projects     ████░░░░░░░░
+DevOps Projects        ███░░░░░░░░░
 
-<div align="center">
+<!-- AUTO:PROJECT_CATEGORIES:END -->---
 
-<img src="https://raw.githubusercontent.com/raveendranjathugulan/raveendranjathugulan/output/github-contribution-grid-snake-dark.svg" width="100%" />
+💼 Experience
 
-</div>
+Full Stack Web Development Intern
 
-> **Setup note:** The contribution snake requires a GitHub Action in your profile repo. Add [`platane/snk`](https://github.com/Platane/snk) as a workflow so it generates and commits `github-contribution-grid-snake-dark.svg` to an `output` branch.
+Pantech.AI — 3 Month Internship
 
----
+- Full-stack application development
+- Frontend and backend integration
+- REST API development
+- Database integration
+- Practical software development workflow
 
-## 🏆 GitHub Trophies
+Full Stack Development Intern
 
-<div align="center">
+NoviTech R&D Pvt Ltd — 1 Month Internship
 
-<img src="https://github-profile-trophy.vercel.app/?username=raveendranjathugulan&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-## 📌 Top Contributed Repositories
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=raveendranjathugulan&repo=vehicle-rental-booking-system&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=raveendranjathugulan&repo=alumni-management-system&theme=tokyonight&hide_border=true" />
-
-</div>
-
-> Replace the `repo=` values above with your actual repository names once pushed to GitHub.
+- Full-stack development practices
+- Application development workflow
+- Backend and frontend integration
+- Practical project-based learning
 
 ---
 
-## 🌱 Currently Learning
+🎓 Education
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Advanced%20MERN%20Stack-2C5364?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Design-0f2027?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud%20Computing-2C5364?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DevOps-0f2027?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Integration-2C5364?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Software%20Architecture-0f2027?style=for-the-badge"/>
-</p>
+Bachelor of Information and Communication Technology (Honours)
 
----
+University of Vavuniya — Faculty of Technological Studies
 
-## 🗣️ Languages
+"2022 — Present"
 
-| Language | Proficiency |
-|---|---|
-| Tamil | Professional Working Proficiency |
-| English | Limited Working Proficiency |
-| Sinhala | Limited Working Proficiency |
+Focus areas:
+
+"Web Engineering" · "Software Engineering" · "Database Systems" · "OOP" · "Data Structures" · "DevOps" · "HCI"
 
 ---
 
-## 💭 Developer Quote
+🏆 Achievements & Certifications
 
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🎯 Strategic Targets & Development Goals
-
-- [ ] Become a professional Full Stack Developer (MERN)
-- [ ] Build and ship scalable, production-grade applications
-- [ ] Contribute meaningfully to open-source projects
-- [ ] Deepen system design and software architecture skills
-- [ ] Gain hands-on proficiency with cloud technologies (AWS, Firebase)
-- [ ] Build real-world SaaS products from idea to deployment
+Certification| Provider| Year
+MasterClass in Full Stack Development| NoviTech R&D| 2026
+Web Design for Beginners| University of Moratuwa| 2026
+Artificial Intelligence| Pantech.AI| 2026
+Professional Certificate in DevOps| Udemy| 2026
+Introduction to MERN Stack| Simplilearn| 2025
+Introduction to MEAN Stack| Simplilearn| 2025
+Tech for Everyone| Sololearn| 2025
+Frontend Development| L4L Institute of Computing| 2025
 
 ---
 
-## 📬 Let's Connect
+🐍 Contribution Graph
 
-<div align="center">
+<div align="center"><img src="https://raw.githubusercontent.com/raveendranjathugulan/raveendranjathugulan/output/github-contribution-grid-snake-dark.svg" width="100%"/></div>---
 
-<a href="https://www.linkedin.com/in/raveendranjathugulan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jathugulan2022@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/raveendranjathugulan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+🏆 GitHub Achievements
 
-</div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=raveendranjathugulan&theme=tokyonight&no-frame=true&margin-w=8&row=2&column=6" width="100%"/></div>---
 
-<br/>
+📊 GitHub Analytics
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=raveendranjathugulan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveendranjathugulan&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/></div>---
 
-<div align="center">
-<sub>Thanks for stopping by — always open to internships, collaborations, and interesting problems to solve.</sub>
+📈 Coding Progress
+
+<!-- AUTO:PROGRESS:START -->Full Stack Development
+████████████████░░░░ 80%
+
+Frontend Engineering
+████████████████░░░░ 80%
+
+Backend Engineering
+███████████████░░░░░ 75%
+
+Database Engineering
+██████████████░░░░░░ 70%
+
+DevOps
+███████████░░░░░░░░░ 55%
+
+System Design
+██████████░░░░░░░░░░ 50%
+
+Cloud
+██████████░░░░░░░░░░ 50%
+
+AI Integration
+██████████░░░░░░░░░░ 50%
+
+<!-- AUTO:PROGRESS:END -->---
+
+🌱 Currently Learning
+
+<div align="center">"MERN" (https://img.shields.io/badge/Advanced_MERN-2C5364?style=for-the-badge)
+"System Design" (https://img.shields.io/badge/System_Design-0F2027?style=for-the-badge)
+"Cloud" (https://img.shields.io/badge/Cloud_Computing-2C5364?style=for-the-badge)
+"DevOps" (https://img.shields.io/badge/DevOps-0F2027?style=for-the-badge)
+"AI" (https://img.shields.io/badge/AI_Integration-2C5364?style=for-the-badge)
+"Architecture" (https://img.shields.io/badge/Software_Architecture-0F2027?style=for-the-badge)
+
+</div>---
+
+🎯 Development Roadmap
+
+2026
+ │
+ ├── ████████████████░░ Full Stack Development
+ ├── ██████████████░░░░ MERN Stack
+ ├── ████████████░░░░░░ REST API Engineering
+ ├── ██████████░░░░░░░░ DevOps
+ ├── █████████░░░░░░░░░ Cloud
+ ├── ████████░░░░░░░░░░ System Design
+ └── ███████░░░░░░░░░░░ AI Integration
+
+Goals
+
+- [x] Build full-stack applications
+- [x] Work with MongoDB / MySQL
+- [x] Build REST APIs
+- [x] Implement authentication and RBAC
+- [ ] Build production-grade SaaS applications
+- [ ] Improve system design
+- [ ] Deploy scalable cloud applications
+- [ ] Contribute consistently to open source
+- [ ] Build and ship an AI-integrated application
+
+---
+
+🌐 Architecture Skills
+
+Frontend
+   │
+   ▼
+React / HTML / CSS / JavaScript
+   │
+   ▼
+REST API
+   │
+   ▼
+Node.js / Express
+   │
+   ▼
+Authentication
+JWT + bcrypt + RBAC
+   │
+   ▼
+Database
+MongoDB / MySQL / PostgreSQL
+   │
+   ▼
+Deployment
+Vercel / Netlify / AWS / Firebase
+
+---
+
+🔐 Security & Engineering
+
+- JWT Authentication
+- Password hashing with bcrypt
+- Role-Based Access Control
+- Protected routes
+- REST API architecture
+- MVC architecture
+- Environment variables
+- API validation
+- Database security
+- Git version control
+- Basic DevOps practices
+
+---
+
+🌍 Open Source & Collaboration
+
+I am interested in contributing to:
+
+- Full-stack JavaScript projects
+- MERN applications
+- Developer tools
+- Open-source documentation
+- University/community projects
+- AI-integrated web applications
+
+---
+
+🗣️ Languages
+
+Language| Level
+Tamil| Professional Working Proficiency
+English| Limited Working Proficiency
+Sinhala| Limited Working Proficiency
+
+---
+
+💡 Developer Philosophy
+
+«Build → Learn → Improve → Ship → Repeat»
+
+I believe the best way to become a better software engineer is to continuously build real systems, understand the engineering behind them, learn from failures, and improve every iteration.
+
+---
+
+📬 Let's Connect
+
+<div align="center"><a href="https://github.com/raveendranjathugulan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://www.linkedin.com/in/raveendranjathugulan">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="mailto:jathugulan2022@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a></div>---
+
+⚙️ Automated Profile System
+
+<div align="center">┌───────────────────────────────────────┐
+│       GITHUB PROFILE ENGINE           │
+├───────────────────────────────────────┤
+│                                       │
+│  📦 Repository Discovery              │
+│  🔍 Project Analysis                  │
+│  💻 Technology Detection              │
+│  📊 Language Statistics               │
+│  ⭐ Stars & Fork Analytics             │
+│  🔥 Activity Tracking                 │
+│  📈 Progress Calculation              │
+│  📝 README Generation                 │
+│  🔄 Automatic Updates                 │
+│                                       │
+└───────────────────────────────────────┘
+
+Profile data is maintained through GitHub Actions automation.
+
+</div>---
+
+<!-- AUTO:LAST_UPDATED:START --><div align="center">Last profile update: Automatically generated by GitHub Actions
+
+</div><!-- AUTO:LAST_UPDATED:END -->---
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=130&section=footer" width="100%"/><br/><sub>⭐ Thanks for visiting my GitHub profile.</sub>
+
+<br/><sub>Always learning • Always building • Always improving 🚀</sub>
+
 </div>
