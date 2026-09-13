@@ -1,315 +1,207 @@
 <div align="center">
 
-<!-- ========================================================= -->
-<!-- PREMIUM HERO HEADER                                        -->
-<!-- ========================================================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:312E81,70:4F46E5,100:059669&height=220&section=header&text=Raveendran%20Jathugulan&fontSize=40&fontColor=FFFFFF&fontAlignY=32&desc=FULL%20STACK%20DEVELOPER%20%7C%20MERN%20%7C%20AI%20%7C%20REST%20APIs&descSize=16&descAlignY=53&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,30:1E1B4B,60:4338CA,85:059669,100:10B981&height=200&section=header&text=RAVEENDRAN%20JATHUGULAN&fontSize=40&fontColor=FFFFFF&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%7C%20MERN%20STACK%20%7C%20SOFTWARE%20ENGINEERING&descSize=14&descAlignY=62&animation=fadeIn" width="100%" alt="Raveendran Jathugulan"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=4F46E5&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;MERN+Stack+Engineer;React+%2B+Node.js+%2B+MongoDB;Building+Production-Ready+Web+Applications;AI-Powered+Application+Development;REST+API+%7C+Authentication+%7C+Real-Time+Systems" />
+
+<br/><br/>
+
+<a href="https://github.com/Jathugulan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/raveendran-jathugulan/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://portfolio-pi-sepia-30.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="mailto:jathugulan2022@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Jathugulan&label=PROFILE+VIEWS&color=4F46E5&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Jathugulan?label=FOLLOWERS&style=for-the-badge&color=059669"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+I'm a **Full Stack Developer** and **BICT (Hons.) undergraduate** at the University of Vavuniya, Sri Lanka.
+
+I specialize in building **end-to-end web applications** with modern frontend architectures, scalable REST APIs, secure authentication systems, database-driven backends, AI integrations and real-time functionality.
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                  DEVELOPER PROFILE                          │
+├─────────────────────────────────────────────────────────────┤
+│ 🎓 Education       BICT (Hons.) — University of Vavuniya   │
+│ 💻 Specialization  Full Stack Web Development               │
+│ 🚀 Primary Stack   MERN                                    │
+│ 🧠 Focus           AI + Modern Web Applications             │
+│ 🔐 Security        JWT + OAuth + RBAC                       │
+│ ⚡ Architecture    REST APIs + Real-Time Systems            │
+│ 🗄️ Databases       MongoDB + MySQL + SQL Server             │
+│ ☁️ Deployment      Vercel + Cloud Technologies             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### 🔥 Current Engineering Focus
+
+* Advanced **TypeScript**
+* Scalable **REST API architecture**
+* Authentication & authorization
+* Database architecture & optimization
+* AI-powered applications
+* Real-time applications with Socket.IO
+* System design
+* Testing & API quality
+* Docker & CI/CD
+* Cloud deployment
+
+---
+
+# ⚡ Technology Universe
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
 
 <br/>
 
-### Full Stack Developer · MERN Stack · BICT (Hons.) · Sri Lanka
-
-Building practical, secure and scalable web applications across frontend, backend and database layers.
-
-<p>
-<a href="https://github.com/Jathugulan"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/raveendran-jathugulan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://portfolio-pi-sepia-30.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:jathugulan2022@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=Jathugulan&label=PROFILE%20VIEWS&color=4F46E5&style=flat-square" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Jathugulan?label=FOLLOWERS&style=flat-square&color=059669" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Jathugulan?label=STARS&style=flat-square&color=4F46E5" alt="Stars"/>
-<img src="https://img.shields.io/badge/OPEN%20TO-Software%20Opportunities-7C3AED?style=flat-square" alt="Open to Opportunities"/>
-</p>
+`JavaScript` `TypeScript` `Java` `Python` `C++` `C#` `PHP` `SQL`
 
 </div>
 
 ---
 
-## 🧭 Quick Navigation
+<div align="center">
 
-[About](#-about-me) · [Dashboard](#-recruiter-dashboard) · [Skills](#-technology-stack) · [Projects](#-featured-projects) · [Architecture](#-engineering-architecture) · [Security](#-security--api-engineering) · [Analytics](#-github-analytics) · [Experience](#-experience) · [Certifications](#-certifications) · [Roadmap](#-learning-roadmap) · [Contact](#-lets-connect)
+### 🎨 Frontend Engineering
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60"/>
 
-## 👨‍💻 About Me
+<br/>
 
-I'm **Raveendran Jathugulan**, a Full Stack Developer and Bachelor of Information and Communication Technology (Hons.) undergraduate at the **University of Vavuniya**, Faculty of Technological Studies.
+<img src="https://cdn.simpleicons.org/framer/000000" width="45"/>
+<img src="https://cdn.simpleicons.org/chartdotjs/000000" width="45"/>
+<img src="https://cdn.simpleicons.org/leaflet/000000" width="45"/>
 
-I enjoy transforming real-world problems into practical software solutions. My work spans React, Next.js, Node.js, Express.js, MongoDB, MySQL, REST APIs, authentication, RBAC, maps, real-time features and analytics.
+<br/>
 
-### 🎯 Engineering Focus
+`React` `Next.js` `Vite` `Redux Toolkit` `Tailwind CSS`
+`Bootstrap` `Framer Motion` `Chart.js` `Leaflet`
 
-- ⚛️ Responsive and component-driven frontend development
-- ⚙️ RESTful backend and API development
-- 🗄️ Database design, CRUD operations and data modeling
-- 🔐 JWT, OAuth, bcrypt and role-based access control
-- 🏗️ Application architecture and clean engineering practices
-- 🧪 Debugging, unit testing and API integration
-- 🤖 AI-enabled application features
-
----
-
-## 📊 Recruiter Dashboard
-
-```text
-┌────────────────────┬────────────────────┬────────────────────┬────────────────────┐
-│   FULL STACK       │   MERN STACK       │   API              │   DATABASE         │
-│   DEVELOPER        │   DEVELOPMENT      │   ENGINEERING      │   ENGINEERING      │
-├────────────────────┼────────────────────┼────────────────────┼────────────────────┤
-│ React · Next.js    │ Node.js · Express  │ REST · JWT · RBAC  │ MongoDB · MySQL    │
-│ TypeScript · Vite  │ MongoDB · Mongoose │ OAuth · Validation │ SQL Server         │
-└────────────────────┴────────────────────┴────────────────────┴────────────────────┘
-```
-
-| Area | Details |
-|------|---------|
-| **Role** | Full Stack Developer |
-| **Primary Stack** | MERN (MongoDB, Express.js, React.js, Node.js) |
-| **Degree** | BICT (Hons.) — University of Vavuniya |
-| **Location** | Point Pedro, Jaffna, Sri Lanka |
-| **Current Focus** | Full Stack & Software Engineering |
-| **Open To** | Software Engineering Internships · Full Stack Opportunities |
+</div>
 
 ---
 
-## 🛠️ Technology Stack
+<div align="center">
 
-### 💻 Programming Languages
+### ⚙️ Backend & API Engineering
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,cs,php,sql" alt="Languages"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60"/>
 
-`JavaScript (ES6+)` · `TypeScript` · `Java` · `Python` · `C++` · `C#` · `PHP` · `SQL`
+<br/>
 
-### 🎨 Frontend Development
+`Node.js` `Express.js` `NestJS` `Laravel` `PHP`
+`REST APIs` `MVC` `Middleware` `CRUD`
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,redux,vite" alt="Frontend"/>
-</p>
-
-`React.js` · `Next.js` · `HTML5` · `CSS3` · `Tailwind CSS` · `Bootstrap` · `Redux Toolkit` · `Context API` · `Vite` · `Responsive Design`
-
-### ⚙️ Backend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel,dotnet,php" alt="Backend"/>
-</p>
-
-`Node.js` · `Express.js` · `Django` · `Laravel` · `PHP` · `.NET Framework` · `REST APIs` · `MVC`
-
-### 🗄️ Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,mssql" alt="Databases"/>
-</p>
-
-`MongoDB` · `MongoDB Atlas` · `MySQL` · `SQL Server` · `Mongoose` · `Database Design` · `CRUD Operations`
-
-### 🔐 Security & APIs
-
-`JWT` · `bcrypt` · `OAuth 2.0` · `RBAC` · `CORS` · `Input Validation` · `Protected Routes` · `Centralized Error Handling`
-
-### 🧰 Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,vercel,githubactions" alt="Tools"/>
-</p>
-
-`Git` · `GitHub` · `VS Code` · `Postman` · `Docker` · `Figma` · `Vercel` · `XAMPP` · `Visual Studio`
-
-### 🧩 Core Engineering Skills
-
-`OOP` · `Data Structures` · `Debugging` · `Unit Testing` · `API Integration` · `Agile/Scrum` · `Mongoose` · `AJAX` · `Chart.js` · `Framer Motion`
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
 
-### ⭐ Tier 1 — Featured Projects
+### 🗄️ Database Engineering
 
-<table>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60"/>
+
+<br/>
+
+`MongoDB Atlas` `Mongoose` `MySQL` `MariaDB` `SQL Server`
+`Schema Design` `CRUD` `Relationships` `Data Validation`
+
+</div>
+
+---
+
+# 🧠 Advanced Engineering Capabilities
+
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-#### 🩸 LifeLink — Blood Donation Emergency Matcher
+### 🔐 Security
 
-Emergency blood-request and donor matching platform.
-
-**Problem:** Critical transfusion delays due to manual donor search.
-
-**Solution:** Real-time blood matching with location-based discovery.
-
-**Core Features:**
-- 🩸 Blood-group compatibility matching
-- 🚨 Emergency request system
-- 📍 Location-based donor discovery (Leaflet + OpenStreetMap)
-- 🔔 Real-time notifications (Socket.IO)
-- 🏥 Hospital management
-- 👤 Donor profiles & analytics (Recharts)
-- 🗺️ Interactive maps
-- 🔐 JWT authentication & RBAC
-
-**Stack:** `React` · `TypeScript` · `Node.js` · `Express` · `MongoDB` · `Socket.IO` · `JWT` · `Leaflet`
-
-**Status:** ✅ Completed · 2026
-
-🔗 [View Repository](https://github.com/Jathugulan/blood-donation-emergency-matcher)
+JWT
+OAuth 2.0
+RBAC
+bcrypt
+Helmet
+Rate Limiting
+HTTP-only Cookies
 
 </td>
-<td width="50%" valign="top">
 
-#### 🚗 QuickRide — Vehicle Rental & Booking
+<td align="center" width="25%">
 
-Full-stack vehicle rental and booking management platform.
+### ⚡ Real-Time
 
-**Problem:** Fragmented vehicle rental management.
-
-**Solution:** Centralized booking engine with availability tracking.
-
-**Core Features:**
-- 🚘 Vehicle discovery & search
-- 📅 Availability management
-- 🛒 Rental booking workflow
-- 🚫 Double-booking prevention
-- 👥 Customer management
-- 🔐 Authentication & RBAC
-- 📊 Booking management
-
-**Stack:** `React` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JWT` · `bcrypt` · `REST API`
-
-**Status:** ✅ Completed · 2026
-
-🔗 [View Repository](https://github.com/Jathugulan/quickride-vehicle-rental-booking)
+Socket.IO
+Live Notifications
+Real-Time Messaging
+Event-Driven Updates
+Location Tracking
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-#### 📚 Tholan Book Shop — Digital Bookstore
+<td align="center" width="25%">
 
-Modern MERN bookstore with AI-powered features.
+### 🤖 AI
 
-**Problem:** Traditional bookstore limitations.
-
-**Solution:** Digital platform with AI search and analytics.
-
-**Core Features:**
-- 📚 Book discovery & advanced search
-- 🤖 AI-powered recommendations
-- 🛒 Online ordering
-- 📦 Inventory management
-- 👥 Customer management
-- 📍 Location-based delivery (Leaflet)
-- 📊 Admin analytics (Chart.js)
-- 🎨 Framer Motion animations
-- 🔐 Secure authentication
-
-**Stack:** `React` · `Redux Toolkit` · `Vite` · `Node.js` · `Express.js` · `MongoDB` · `Tailwind CSS` · `Chart.js` · `Framer Motion`
-
-**Status:** ✅ Completed · 2026
-
-🔗 [View Repository](https://github.com/Jathugulan/tholan-book-shop)
+Google Gemini
+NLP Search
+AI Chatbots
+Recommendations
+Document Parsing
+Resume Analysis
 
 </td>
-<td width="50%" valign="top">
 
-#### 👨‍🏫 TeacherPayRoll ERP — Education & Payroll
+<td align="center" width="25%">
 
-Teacher attendance, leave and payroll management system.
+### 📍 Location
 
-**Problem:** Manual payroll and attendance tracking.
-
-**Solution:** Centralized ERP for teacher records and payroll.
-
-**Core Features:**
-- 👨‍🏫 Teacher records management
-- 📋 Attendance tracking
-- 📅 Leave approvals
-- 💰 Payroll & salary slips
-- 📊 Administrative reporting
-- 🔐 Google OAuth & JWT
-
-**Stack:** `React 19` · `Vite` · `Node.js` · `Express.js` · `MongoDB Atlas` · `JWT` · `Google OAuth` · `Tailwind CSS`
-
-**Status:** ✅ Completed · 2026
-
-🔗 [View Repository](https://github.com/Jathugulan/TeacherPayRollERP)
-
-</td>
-</tr>
-</table>
-
-### ⭐ Tier 2 — Engineering Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🧠 QuizMaster Pro — Learning & Assessment
-
-MERN-based quiz application with structured assessment workflows.
-
-**Stack:** `React` · `Vite` · `Node.js` · `Express` · `MongoDB` · `Mongoose` · `JWT` · `Google OAuth`
-
-🔗 [View Repository](https://github.com/Jathugulan/QuizMaster-Pro)
-
-</td>
-<td width="50%" valign="top">
-
-#### 📘 Yarl Skill Hub — Multilingual Learning Platform
-
-Digital learning platform for Sri Lankan learners with multilingual support.
-
-**Stack:** `HTML5` · `CSS3` · `JavaScript` · `Bootstrap` · `PHP` · `MySQL` · `AJAX` · `Chart.js`
-
-🔗 [View Repository](https://github.com/Jathugulan/yarl-skill-hub)
-
-</td>
-</tr>
-</table>
-
-### ⭐ Tier 3 — Academic & Desktop Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### 🎓 Alumni Management
-
-University alumni platform.
-
-**Stack:** `PHP` · `MySQL` · `Bootstrap` · `JavaScript`
-
-🔗 [Repository](https://github.com/Jathugulan/Alumni-Management-system)
-
-</td>
-<td width="33%" valign="top">
-
-#### 💊 PharmaNova
-
-Desktop pharmacy management.
-
-**Stack:** `C#` · `.NET` · `Windows Forms` · `SQL Server`
-
-🔗 [Repository](https://github.com/Jathugulan/PharmaNova)
-
-</td>
-<td width="33%" valign="top">
-
-#### 🍽️ Vadamārutham Restaurant
-
-Restaurant management platform.
-
-**Stack:** `HTML5` · `CSS3` · `JavaScript` · `Bootstrap` · `PHP` · `MySQL`
-
-🔗 [Repository](https://github.com/Jathugulan/vadamarutham-restaurant)
+Leaflet
+OpenStreetMap
+Geolocation
+Geocoding
+Route Calculation
+Location Discovery
 
 </td>
 </tr>
@@ -317,700 +209,774 @@ Restaurant management platform.
 
 ---
 
-## 📊 Project Technology Matrix
-
-| Project | Domain | Frontend | Backend | Database | Key Features |
-|---------|--------|----------|---------|----------|-------------|
-| 🩸 LifeLink | Healthcare | React · TypeScript | Node.js · Express | MongoDB | Real-Time · Maps · RBAC |
-| 🚗 QuickRide | Vehicle Rental | React | Node.js · Express | MongoDB | Booking · RBAC · Validation |
-| 📚 Tholan Book Shop | E-Commerce | React · Redux · Vite | Node.js · Express | MongoDB | AI · Maps · Analytics |
-| 👨‍🏫 TeacherPayRoll | ERP | React 19 · Vite | Node.js · Express | MongoDB Atlas | OAuth · Payroll · RBAC |
-| 🧠 QuizMaster Pro | Education | React · Vite | Node.js · Express | MongoDB | OAuth · Assessment |
-| 📘 Yarl Skill Hub | Education | JavaScript · AJAX | PHP | MySQL | Multilingual · Charts |
-| 🎓 Alumni System | Education | JavaScript · Bootstrap | PHP | MySQL | CRUD · REST API |
-| 💊 PharmaNova | Pharmacy | Windows Forms | .NET | SQL Server | ADO.NET · Desktop ERP |
-| 🍽️ Vadamārutham | Restaurant | HTML · CSS · JS | PHP | MySQL | Ordering · Reservations |
-
----
-
-## 🏗️ Engineering Architecture
-
-### 🔄 Full Stack Application Flow
-
-```mermaid
-flowchart LR
-    USER[👤 User] --> UI[⚛️ React / Next.js]
-    UI --> AUTH[🔐 JWT / OAuth]
-    AUTH --> API[🌐 REST API]
-    API --> SERVER[⚙️ Node.js / Express]
-    SERVER --> LOGIC[🧩 Business Logic]
-    LOGIC --> DB[(🗄️ MongoDB / MySQL)]
-    SERVER --> REALTIME[⚡ Socket.IO]
-    SERVER --> MAPS[🗺️ Leaflet / OSM]
-    SERVER --> AI[🤖 AI Services]
-```
-
-### 🔄 Engineering Workflow
+# 🏗️ Architecture & Engineering
 
 ```text
-Requirements → System Design → UI/UX → Frontend Development →
-REST API Development → Business Logic → Database Design →
-Authentication & Security → Testing & Debugging → Documentation →
-Release / Deployment
+                    ┌─────────────────────┐
+                    │      CLIENT UI      │
+                    │ React / Next.js     │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │     API LAYER       │
+                    │ REST / Controllers  │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+              ┌────────────────────────────────┐
+              │       BUSINESS LOGIC           │
+              │ Services / Validation / Auth   │
+              └───────────────┬────────────────┘
+                              │
+               ┌──────────────┴──────────────┐
+               ▼                             ▼
+       ┌────────────────┐             ┌────────────────┐
+       │    DATABASE    │             │ EXTERNAL APIs  │
+       │ MongoDB/MySQL  │             │ AI / Maps /    │
+       │ SQL Server     │             │ OAuth / Cloud  │
+       └────────────────┘             └────────────────┘
 ```
 
-### 📐 System Architecture Concept
+### Engineering Practices
 
-```mermaid
-flowchart TD
-    A[Client / Browser] --> B[React Frontend]
-    B --> C[Authentication Layer]
-    C --> D[REST API Gateway]
-    D --> E[Express.js Server]
-    E --> F[Business Logic]
-    F --> G[MongoDB / MySQL]
-    E --> H[Socket.IO Real-Time]
-    E --> I[External Services]
-    F --> J[Validation Layer]
-    J --> G
-```
-
-### 🗄️ Database Architecture Concept
-
-```mermaid
-erDiagram
-    USER ||--o{ ROLE : has
-    USER ||--o{ BOOKING : creates
-    USER ||--o{ NOTIFICATION : receives
-    USER ||--o{ REVIEW : writes
-    VEHICLE ||--o{ BOOKING : has
-    BOOKING ||--o| PAYMENT : includes
-    BOOKING ||--o| REVIEW : receives
-    HOSPITAL ||--o{ BLOOD_REQUEST : issues
-    DONOR ||--o{ BLOOD_REQUEST : fulfills
-```
-
-> Diagram relationships are architectural representations for profile documentation.
+* ♻️ Reusable component architecture
+* 🧩 Modular backend architecture
+* 🔒 Secure API design
+* ✅ Request validation
+* 🧱 Separation of concerns
+* 📦 Environment-based configuration
+* 📝 API documentation
+* 🧪 API testing
+* 📊 Analytics & monitoring
+* 🚀 Deployment-ready architecture
 
 ---
 
-## 🔐 Security & API Engineering
+# 🚀 Featured Project Lab
 
-### 🔒 Security Architecture
+## 🩸 LifeLink
 
-```text
-Client Request
-      │
-      ▼
-🛡️ Rate Limiting & CORS
-      │
-      ▼
-✅ Input Validation
-      │
-      ▼
-🔑 JWT Authentication
-      │
-      ▼
-👮 RBAC Authorization
-      │
-      ▼
-⚙️ Business Logic
-      │
-      ▼
-🗄️ Database Access
-```
+### Emergency Blood Donation & Matching Platform
 
-### 🔑 Authentication & Authorization
+Real-time healthcare platform connecting emergency blood requests with compatible donors through location-aware discovery.
 
-| Layer | Implementation |
-|-------|---------------|
-| **Authentication** | JWT · Google OAuth · Session Management |
-| **Authorization** | RBAC · Role-Based Routes · Protected Endpoints |
-| **Password Security** | bcrypt Hashing · Salt Rounds |
-| **API Security** | CORS · Input Validation · Secure Headers |
+**Stack**
 
-### 🌐 API Engineering
+`React` `TypeScript` `Node.js` `Express`
+`MongoDB` `Socket.IO` `JWT` `Leaflet`
 
-| Capability | Details |
-|------------|---------|
-| **Architecture** | RESTful API Design · MVC Pattern |
-| **Operations** | CRUD · Pagination · Filtering · Sorting |
-| **Validation** | Input Sanitization · Data Validation |
-| **Error Handling** | Centralized Error Handler · Structured Responses |
-| **Testing** | Postman · API Integration Testing |
-| **Documentation** | Structured Endpoint Documentation |
+**Advanced Features**
 
----
-
-## ⚡ Real-Time & Maps Engineering
-
-### 🔔 Real-Time Capabilities
-
-- ⚡ Socket.IO real-time notifications
-- 🚨 Emergency alert system
-- 📡 Live status updates
-- 🔄 Event-driven architecture
-- 📊 Real-time data synchronization
-
-### 🗺️ Maps & Location
-
-- 📍 Leaflet integration
-- 🗺️ OpenStreetMap tiles
-- 📏 Distance calculations
-- 🔍 Location-based search
-- 📌 Interactive map markers
-
----
-
-## 🗄️ Database Engineering
-
-```text
-DATABASE ENGINEERING
-
-MongoDB
-├── Mongoose ODM
-├── Schema Design
-├── Aggregation Pipeline
-├── Indexing
-├── Data Modeling
-└── MongoDB Atlas (Cloud)
-
-MySQL
-├── Relational Design
-├── CRUD Operations
-├── Complex Queries
-└── XAMPP Stack
-
-SQL Server
-├── ADO.NET Integration
-├── Windows Forms
-└── Database Management
-```
-
----
-
-## 🧪 Testing & Quality Engineering
-
-```text
-QUALITY ASSURANCE
-
-Unit Testing
-├── Component Testing
-└── Function Testing
-
-API Testing
-├── Postman
-└── REST Client
-
-Debugging
-├── Browser DevTools
-├── Node.js Debugging
-└── Error Tracking
-
-Code Quality
-├── Clean Code Practices
-├── Modular Architecture
-├── Code Review
-└── Version Control (Git)
-```
-
----
-
-## ⚙️ DevOps & Engineering Workflow
-
-```text
-💻 Development Environment (VS Code)
-        ↓
-📦 Git Version Control
-        ↓
-🔀 Branch Management
-        ↓
-🧪 Testing & Debugging
-        ↓
-📝 Code Review
-        ↓
-🔀 Pull Request
-        ↓
-⚙️ GitHub Actions (CI/CD)
-        ↓
-🐳 Docker Containerization
-        ↓
-🚀 Deployment (Vercel / Cloud)
-        ↓
-📊 Monitoring
-```
-
-| Tool | Purpose |
-|------|---------|
-| `Git` | Version Control |
-| `GitHub` | Code Hosting & Collaboration |
-| `GitHub Actions` | CI/CD Automation |
-| `Docker` | Containerization |
-| `Postman` | API Testing |
-| `Vercel` | Frontend Deployment |
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Jathugulan">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jathugulan&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&title_color=4F46E5&icon_color=059669&text_color=334155&bg_color=FFFFFF" alt="GitHub Statistics"/>
-</a>
-<a href="https://github.com/Jathugulan">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jathugulan&layout=compact&langs_count=8&hide_border=true&title_color=4F46E5&text_color=334155&bg_color=FFFFFF" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jathugulan&hide_border=true&background=FFFFFF&ring=4F46E5&fire=059669&currStreakLabel=4F46E5&sideLabels=334155&dates=64748B" width="75%" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jathugulan&bg_color=ffffff&color=334155&line=4F46E5&point=059669&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity"/>
-
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jathugulan&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
-### 📊 Technology Coverage
-
-```text
-JavaScript      ████████████████████  Primary
-TypeScript      ████████████████      Growing
-React           ████████████████████  Primary
-Node.js         ████████████████████  Primary
-MongoDB         ████████████████████  Primary
-PHP             ████████████          Secondary
-Python          ██████████            Exploring
-C# / .NET       ████████              Academic
-Java            ███████               Academic
-SQL             ██████████████        Strong
-```
-
-> Personal development indicators based on project usage — not formal assessment scores.
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-```text
-╔═══════════════════════════════════════════════════════╗
-║                  ACHIEVEMENT SNAPSHOT                  ║
-╠═══════════════════════════════════════════════════════╣
-║  🚀  09+  Full-Stack Projects Completed               ║
-║  🎓  13+  Professional Certifications                 ║
-║  💼  02   Software Internships                        ║
-║  ⚙️  30+  Technologies & Tools                        ║
-║  🌐  09   Production-Ready Applications               ║
-║  📊  Full Stack · MERN · REST APIs · RBAC             ║
-╚═══════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 💼 Experience
-
-### 📅 Experience Timeline
-
-```text
-2026
-│
-├── 🏢 Pantech.AI
-│   Full Stack Web Development Intern
-│   Jan 2026 – Apr 2026 · 3 Months
-│   ✅ Full-stack web development
-│   ✅ Frontend/backend integration
-│   ✅ REST API development
-│   ✅ Database-driven applications
-│
-├── 🏢 NoviTech R&D Pvt Ltd
-│   Full Stack Development Intern
-│   Apr 2026 – May 2026 · 1 Month
-│   ✅ Full-stack development workflows
-│   ✅ Frontend/backend integration
-│   ✅ Modern web development practices
-│
-└── 🎓 University of Vavuniya
-    BICT (Hons.)
-    2023 – Present
-```
-
----
-
-## 🎓 Education
-
-**Bachelor of Information and Communication Technology (Hons.)**
-
-**University of Vavuniya** — Faculty of Technological Studies
-2023 – Present · Sri Lanka
-
-### Core Areas
-
-`Software Engineering` · `Web Development` · `Database Systems` · `OOP` · `Data Structures` · `Computer Networks` · `HCI` · `System Analysis`
-
----
-
-## 📜 Certifications
-
-### 🏅 Certification Cards
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔧 Full Stack & Web Development
-
-| Certification | Provider | Date |
-|---|---|---|
-| 🏆 MasterClass in Full Stack Development | NoviTech R&D | Jun 2026 |
-| 🌐 Introduction to MERN Stack | Simplilearn | Dec 2025 |
-| 🌐 Introduction to MEAN Stack | Simplilearn | Dec 2025 |
-| 🎨 Web Design for Beginners | University of Moratuwa | Mar 2026 |
-| 🌐 Web Development | Coursera | 2025 |
-
-</td>
-<td width="50%" valign="top">
-
-#### 🤖 AI & Data
-
-| Certification | Provider | Date |
-|---|---|---|
-| 🤖 Artificial Intelligence | Pantech.AI | Feb 2026 |
-| 🧠 Machine Learning | Pantech.AI | 2026 |
-| 📊 Data Analytics | Coursera | 2025 |
-| 📊 Data Science & Analytics | Coursera | 2025 |
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### ⚙️ Engineering & DevOps
-
-| Certification | Provider | Date |
-|---|---|---|
-| ⚙️ Professional Certificate in DevOps | Udemy | Jan 2026 |
-| ☕ Java (Basic) | HackerRank | 2025 |
-| 💻 Introduction to JavaScript | Sololearn | Nov 2025 |
-| 🗄️ Introduction to SQL | Sololearn | 2025 |
-| 🐍 Introduction to Python | Saylor Academy | 2025 |
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎨 Design & Other
-
-| Certification | Provider | Date |
-|---|---|---|
-| 💡 I2OR Young Innovator Mindset | I2OR | Jan 2026 |
-| 💻 Tech for Everyone | Sololearn | Nov 2025 |
-| 🎨 UI/UX Design | Coursera | 2025 |
-| 📱 Angular | Coursera | 2025 |
-
-</td>
-</tr>
-</table>
-
-### 📊 Certification Statistics
-
-```text
-CERTIFICATION SNAPSHOT
-
-13+  Total Certifications
- 5+  Programming & Development
- 4+  AI & Data
- 5+  Full Stack & Web
- 2+  Engineering & DevOps
-```
-
----
-
-## 🗺️ Learning Roadmap
-
-### 📍 Current Roadmap (2026 — 2027)
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### ✅ Completed
-
-- Full-stack applications
-- React interfaces
-- Node.js APIs
-- MongoDB systems
-- Authentication workflows
-- REST API development
-- JWT & RBAC implementation
-- Real-time features (Socket.IO)
-
-</td>
-<td width="33%" valign="top">
-
-#### 🔄 Currently Improving
-
-- TypeScript
-- System Design
-- API Security
-- Testing frameworks
-- Performance optimization
-- Clean Architecture
-- Code quality standards
-
-</td>
-<td width="33%" valign="top">
-
-#### 🚀 Next — Exploring
-
-- Docker & CI/CD
-- Cloud Engineering
-- AI Integration
-- Scalable Architecture
-- Advanced DevOps
-- Open Source Contribution
-- Production SaaS Apps
-
-</td>
-</tr>
-</table>
-
-### 📈 Career Direction
-
-```text
-COMPLETED
-   ↓
-Full Stack MERN Development
-   ↓
-CURRENTLY MASTERING
-   ↓
-Advanced TypeScript · System Design · Testing
-   ↓
-NEXT
-   ↓
-Docker · CI/CD · Cloud Engineering
-   ↓
-FUTURE
-   ↓
-AI Integration · Scalable Systems · Open Source
-```
-
----
-
-## 🌍 Multilingual & Localization
-
-<div align="center">
-
-| 🇱🇰 Tamil | 🇬🇧 English | 🇱🇰 Sinhala |
-|---|---|---|
-| Professional | Working | Working |
-| Proficiency | Proficiency | Proficiency |
-
-</div>
-
-**Focus:** Multilingual UX · Localization · Accessible interfaces · Sri Lankan user-focused applications
-
----
-
-## 🧭 Engineering Principles
-
-```text
-ENGINEERING PRINCIPLES
-
-01 — Build for real-world problems
-02 — Keep architecture maintainable
-03 — Secure application boundaries
-04 — Design APIs consistently
-05 — Validate data early
-06 — Document important decisions
-07 — Test critical functionality
-08 — Continuously improve
-```
-
----
-
-## 📝 Technical Documentation
-
-Showcasing engineering documentation practices:
-
-- 📄 SRS Documents
-- 📡 API Documentation
-- 🏗️ Architecture Documentation
-- 🗄️ Database Design
-- 📋 README Documentation
-- 📊 Technical Diagrams
-- 🔄 Workflow Documentation
-
----
-
-## 🎨 UI/UX Engineering
-
-```text
-UI ENGINEERING
-
-Responsive Design
-Component Architecture
-Mobile-First Design
-Cross-Browser Compatibility
-Tailwind CSS Utility Classes
-Bootstrap Grid System
-Framer Motion Animations
-Accessible Interfaces
-```
-
----
-
-## 📱 Responsive Design Showcase
-
-```text
-Desktop (1920px) → Tablet (768px) → Mobile (375px)
-         ↓                ↓              ↓
-   Full Layout      Adapted Grid    Stacked Layout
-```
-
----
-
-## 🤖 AI Application Development
-
-- 🤖 AI-powered search (Tholan Book Shop)
-- 📊 Recommendation systems
-- 🧠 AI API integration
-- 📈 Data-driven features
-- 🤖 Machine Learning fundamentals
-
----
-
-## 🌐 Portfolio
-
-<div align="center">
-
-<a href="https://portfolio-pi-sepia-30.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Jathugulan/Portfolio">
-<img src="https://img.shields.io/badge/📦%20SOURCE%20CODE-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Source"/>
-</a>
-
-<br/><br/>
-
-**Live:** `https://portfolio-pi-sepia-30.vercel.app/`
-**Source:** `https://github.com/Jathugulan/Portfolio`
-
-</div>
-
----
-
-## 📌 Repository Pin Cards
-
-<div align="center">
+| Feature               | Implementation                 |
+| --------------------- | ------------------------------ |
+| 🚨 Emergency Requests | Blood emergency workflow       |
+| 🩸 Donor Matching     | Compatibility-based discovery  |
+| 📍 Location           | Location-aware donor discovery |
+| ⚡ Real-Time           | Socket.IO notifications        |
+| 🔐 Security           | JWT + RBAC                     |
+| 📊 Analytics          | Dashboard & reporting          |
 
 <a href="https://github.com/Jathugulan/blood-donation-emergency-matcher">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jathugulan&repo=blood-donation-emergency-matcher&theme=flat&hide_border=true&title_color=4F46E5" alt="LifeLink"/>
+<img src="https://img.shields.io/badge/EXPLORE_LIFELINK-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Jathugulan/tholan-book-shop">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jathugulan&repo=tholan-book-shop&theme=flat&hide_border=true&title_color=4F46E5" alt="Tholan Book Shop"/>
-</a>
+---
+
+## 🚗 QuickRide
+
+### Vehicle Rental & Booking Platform
+
+Full-stack vehicle rental ecosystem supporting customers, owners, drivers and administrators.
+
+**Stack**
+
+`React` `Vite` `TanStack Query` `Node.js`
+`Express` `MongoDB` `Google OAuth` `Socket.IO` `Cloudinary`
+
+**Advanced Features**
+
+* 👥 Multi-role ecosystem
+* 🚘 Vehicle management
+* 📅 Booking lifecycle
+* 💳 Payment integration
+* 🔐 Authentication
+* ⚡ Real-time communication
+* ☁️ Cloudinary media management
+* 📍 Maps & route calculation
+* 📧 Email communication
+* 📖 Swagger/OpenAPI documentation
 
 <a href="https://github.com/Jathugulan/quickride-vehicle-rental-booking">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jathugulan&repo=quickride-vehicle-rental-booking&theme=flat&hide_border=true&title_color=4F46E5" alt="QuickRide"/>
+<img src="https://img.shields.io/badge/EXPLORE_QUICKRIDE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+---
+
+## 📚 Tholan Book Shop
+
+### AI-Powered E-Commerce Platform
+
+Modern MERN e-commerce platform with intelligent search, recommendations and chatbot functionality.
+
+**Stack**
+
+`React` `Redux Toolkit` `Vite` `Node.js`
+`Express` `MongoDB` `JWT` `AI` `Leaflet`
+
+**Advanced Features**
+
+* 🛒 Complete e-commerce workflow
+* 🤖 AI recommendation engine
+* 💬 AI chatbot
+* 🔎 Natural-language search
+* 📊 Business analytics
+* 📍 Location services
+* 🔐 Secure authentication
+* 🗺️ Map integration
+
+<a href="https://github.com/Jathugulan/tholan-book-shop">
+<img src="https://img.shields.io/badge/EXPLORE_THOLAN-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## 📄 SmartATS
+
+### ATS Resume Builder & Score Analyzer
+
+Intelligent career platform for creating ATS-friendly resumes and analyzing PDF/DOCX resumes.
+
+**Stack**
+
+`React 19` `Vite` `Tailwind CSS`
+`Node.js` `Express` `MongoDB` `JWT`
+
+**Advanced Features**
+
+* 📄 Resume builder
+* 📊 ATS scoring
+* 🔎 Resume parsing
+* 📑 PDF processing
+* 📝 DOCX processing
+* 🔐 Secure authentication
+* 🛡️ Helmet security
+* 🚦 Rate limiting
+* 🎨 Responsive premium UI
+* 📦 Document generation
+
+<a href="https://github.com/Jathugulan/SmartATS-Resume-Builder-Score-Analyzer">
+<img src="https://img.shields.io/badge/EXPLORE_SMARTATS-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## 👨‍🏫 TeacherPayRoll ERP
+
+### Teacher Attendance, Leave & Payroll System
+
+Enterprise-style ERP for teacher attendance, leave and payroll workflows.
+
+**Stack**
+
+`React 19` `Vite` `Node.js` `Express`
+`MongoDB Atlas` `JWT` `Google OAuth`
+
+**Advanced Features**
+
+* 👨‍🏫 Teacher management
+* ⏱️ Attendance management
+* 🏖️ Leave management
+* 💰 Payroll workflows
+* 🔐 Authentication
+* 🔑 Google OAuth
+* 📝 Audit logging
+* 📊 Dashboard analytics
+* 🧪 API testing
 
 <a href="https://github.com/Jathugulan/TeacherPayRollERP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jathugulan&repo=TeacherPayRollERP&theme=flat&hide_border=true&title_color=4F46E5" alt="TeacherPayRoll"/>
+<img src="https://img.shields.io/badge/EXPLORE_ERP-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+---
+
+## 🧠 QuizMaster Pro
+
+### AI Examination & Assessment Platform
+
+Educational assessment platform enhanced with Google Gemini for intelligent content generation.
+
+**Stack**
+
+`React 19` `Vite` `Tailwind CSS`
+`Node.js` `Express` `MongoDB` `JWT` `Gemini`
+
+**Advanced Features**
+
+* 📝 Online examinations
+* 🤖 AI-generated content
+* 📊 Performance analytics
+* 👨‍🎓 Assessment management
+* 🔐 JWT authentication
+* ✨ Framer Motion UI
+* 🛡️ Helmet security
+* ✅ Request validation
+
+<a href="https://github.com/Jathugulan/quizmaster-pro-mern">
+<img src="https://img.shields.io/badge/EXPLORE_QUIZMASTER-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-## 🧭 Recruiter Quick View
+# 🌐 Project Ecosystem
 
-<div align="center">
-
-| 👨‍💻 Role | ⚛️ Stack | 🎓 Education | 📍 Location | 📬 Contact |
-|---|---|---|---|---|
-| Full Stack Developer | MERN | BICT (Hons.) | Jaffna, Sri Lanka | LinkedIn · Email |
-
-</div>
+| Domain          | Projects                          | Core Technologies                  |
+| --------------- | --------------------------------- | ---------------------------------- |
+| 🩸 Healthcare   | LifeLink                          | React · Node · MongoDB · Socket.IO |
+| 🚗 Booking      | QuickRide                         | React · Node · MongoDB · Maps      |
+| 🛒 E-Commerce   | Tholan Book Shop                  | MERN · Redux · AI                  |
+| 🏢 ERP / HR     | TeacherPayRoll · HRMS             | MERN · Next.js · NestJS            |
+| 🎓 Education    | QuizMaster · Yarl Skill Hub · GPA | React · PHP · MySQL                |
+| 💼 Career       | SmartATS                          | MERN · Document Processing         |
+| 🍽️ Hospitality | Vadamārutham                      | React · Node · MongoDB             |
+| 🖥️ Enterprise  | PharmaNova                        | C# · .NET · SQL Server             |
 
 ---
 
-## 📬 Let's Connect
+# 📦 Complete Project Collection
 
-I'm interested in opportunities and collaborations involving **Full Stack Development**, **Software Engineering**, **Web Development**, **Backend Engineering** and **AI-powered applications**.
-
-<div align="center">
-
-### 🚀 Open To
-
-- Software Engineering Internships
-- Full Stack Development Opportunities
-- Collaborative Projects
-- Technical Learning Opportunities
+<details>
+<summary><b>🔎 View All Projects</b></summary>
 
 <br/>
 
-<a href="https://github.com/Jathugulan"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/raveendran-jathugulan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://portfolio-pi-sepia-30.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:jathugulan2022@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+| #  | Project                     | Stack                         | Domain      |
+| -- | --------------------------- | ----------------------------- | ----------- |
+| 01 | 🩸 LifeLink                 | MERN + TypeScript + Socket.IO | Healthcare  |
+| 02 | 🚗 QuickRide                | MERN + OAuth + Maps           | Booking     |
+| 03 | 📚 Tholan Book Shop         | MERN + AI                     | E-Commerce  |
+| 04 | 📄 SmartATS                 | MERN + Document Processing    | Career      |
+| 05 | 👨‍🏫 TeacherPayRoll ERP    | MERN + OAuth                  | ERP         |
+| 06 | 🧠 QuizMaster Pro           | MERN + Gemini                 | Education   |
+| 07 | 🏢 HRMS Dashboard           | Next.js + NestJS              | HR          |
+| 08 | 🍽️ Vadamārutham Restaurant | MERN + Maps                   | Hospitality |
+| 09 | 🌐 Yarl Skill Hub           | PHP MVC + MySQL               | Education   |
+| 10 | 🎓 Alumni Management        | PHP + MySQL                   | Education   |
+| 11 | 💊 PharmaNova               | C# + .NET + SQL Server        | Enterprise  |
+| 12 | 🍔 Food Picker Spinner      | React + Vite                  | Utility     |
+| 13 | 🧮 GPA Calculator           | HTML + CSS + JS               | Education   |
+| 14 | 🧮 SmartCalc Pro            | HTML + CSS + JS               | Utility     |
+| 15 | 🌐 Portfolio                | Bootstrap + JS                | Portfolio   |
+
+</details>
+
+---
+
+# 🔐 Security Engineering
+
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="50"/>
+<img src="https://cdn.simpleicons.org/oauth/000000" width="50"/>
+<img src="https://cdn.simpleicons.org/owasp/000000" width="50"/>
+<img src="https://cdn.simpleicons.org/auth0/000000" width="50"/>
 
 <br/><br/>
 
-📄 [View Resume](https://portfolio-pi-sepia-30.vercel.app/)
+<img src="https://img.shields.io/badge/JWT-Authentication-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OAuth_2.0-Authorization-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RBAC-Access_Control-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Helmet-Security-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Rate_Limiting-API_Protection-EA580C?style=for-the-badge"/>
 
 </div>
 
+### Security Practices
+
+```text
+Authentication
+      │
+      ├── JWT
+      ├── OAuth 2.0
+      ├── HTTP-only Cookies
+      └── Password Hashing
+              │
+              ▼
+Authorization
+      │
+      ├── RBAC
+      ├── Protected Routes
+      └── Access Control
+              │
+              ▼
+API Protection
+      │
+      ├── Request Validation
+      ├── Rate Limiting
+      ├── Helmet
+      ├── CORS
+      └── Audit Logging
+```
+
 ---
 
-## 💭 Developer Quote
+# 🤖 AI Application Engineering
 
 <div align="center">
 
-> ### **"Build → Learn → Improve → Ship → Repeat."**
-
-**Every project is a chance to become a better engineer.**
-
-</div>
-
----
-
-## 👀 Visitors & Reach
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Jathugulan&label=TOTAL%20PROFILE%20VISITORS&color=4F46E5&style=for-the-badge" alt="Visitors"/>
+<img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="65"/>
+<img src="https://cdn.simpleicons.org/openai/000000" width="65"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/Jathugulan?label=GitHub%20Followers&style=for-the-badge&color=059669" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Jathugulan?label=Repository%20Stars&style=for-the-badge&color=4F46E5" alt="Stars"/>
+<img src="https://img.shields.io/badge/Google_Gemini-AI_Applications-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-Intelligent_Search-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Recommendation_Engines-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Chatbots-E11D48?style=for-the-badge"/>
+
+</div>
+
+### AI Use Cases
+
+* 🧠 Intelligent recommendation systems
+* 🔎 Natural-language search
+* 💬 AI chatbot functionality
+* 📄 Resume analysis
+* 📝 AI-generated educational content
+* 📊 AI-assisted analytics
+* 📑 Document parsing
+
+---
+
+# ⚡ Real-Time & Location Systems
+
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/socketdotio/000000" width="60"/>
+<img src="https://cdn.simpleicons.org/leaflet/000000" width="60"/>
+<img src="https://cdn.simpleicons.org/openstreetmap/000000" width="60"/>
+
+<br/><br/>
+
+`Socket.IO` `Leaflet` `OpenStreetMap` `Geolocation`
+`Geocoding` `Route Calculation` `Real-Time Events`
 
 </div>
 
 ---
 
+# 🧪 API & Development Workflow
+
+```text
+Requirements
+     ↓
+UI / UX Design
+     ↓
+Frontend Architecture
+     ↓
+REST API Design
+     ↓
+Backend Development
+     ↓
+Database Design
+     ↓
+Authentication & Security
+     ↓
+API Testing
+     ↓
+Integration
+     ↓
+Deployment
+     ↓
+Monitoring & Improvement
+```
+
+### API Engineering
+
+* RESTful API architecture
+* CRUD operations
+* Authentication middleware
+* Validation middleware
+* Error handling
+* Pagination
+* Search & filtering
+* API rate limiting
+* Swagger/OpenAPI
+* Postman testing
+
+---
+
+# 🛠️ Development Tools
+
 <div align="center">
 
-**Building today · Learning continuously · Engineering for tomorrow**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,30:4338CA,60:1E1B4B,100:0F172A&height=100&section=footer" width="100%" alt="Footer"/>
+<br/>
 
-<sub>© Raveendran Jathugulan · Full Stack Developer</sub>
+<img src="https://cdn.simpleicons.org/vercel/000000" width="45"/>
+<img src="https://cdn.simpleicons.org/githubactions/000000" width="45"/>
+
+<br/><br/>
+
+`Git` `GitHub` `GitHub Actions` `Docker`
+`VS Code` `Postman` `Figma` `Vercel`
+
+</div>
+
+---
+
+# 🏆 Certifications & Professional Learning
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+🚀 **FULL STACK**
+
+<br/>
+
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="55"/>
+
+**MasterClass in Full Stack Development**
+
+NoviTech R&D
+
+</td>
+
+<td align="center" width="33%">
+
+🌐 **MERN**
+
+<br/>
+
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="55"/>
+
+**Introduction to MERN Stack**
+
+Simplilearn
+
+</td>
+
+<td align="center" width="33%">
+
+🔥 **MEAN**
+
+<br/>
+
+<img src="https://cdn.simpleicons.org/angular/DD0031" width="55"/>
+
+**Introduction to MEAN Stack**
+
+Simplilearn
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+🤖 **ARTIFICIAL INTELLIGENCE**
+
+<br/>
+
+<img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="55"/>
+
+**Artificial Intelligence**
+
+Pantech.AI
+
+</td>
+
+<td align="center">
+
+🧠 **MACHINE LEARNING**
+
+<br/>
+
+<img src="https://cdn.simpleicons.org/python/3776AB" width="55"/>
+
+**Machine Learning**
+
+Pantech.AI
+
+</td>
+
+<td align="center">
+
+📊 **DATA**
+
+<br/>
+
+<img src="https://cdn.simpleicons.org/coursera/0056D2" width="55"/>
+
+**Data Analytics & Data Science**
+
+Coursera
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+⚙️ **DEVOPS**
+
+<br/>
+
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="55"/>
+
+**Professional Certificate in DevOps**
+
+Udemy
+
+</td>
+
+<td align="center">
+
+☕ **JAVA**
+
+<br/>
+
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="55"/>
+
+**Java (Basic)**
+
+HackerRank
+
+</td>
+
+<td align="center">
+
+🗃️ **PROGRAMMING**
+
+<br/>
+
+<img src="https://cdn.simpleicons.org/sololearn/149EF2" width="55"/>
+
+**SQL · JavaScript · Python**
+
+Sololearn / Saylor Academy
+
+</td>
+</tr>
+
+<tr>
+<td colspan="3" align="center">
+
+🎨 **UI / UX DESIGN**
+
+<br/>
+
+<img src="https://cdn.simpleicons.org/figma/F24E1E" width="55"/>
+
+**UI/UX Design**
+
+Coursera
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🎯 Now / Roadmap
+
+<table align="center">
+<tr>
+<th>✅ Shipped</th>
+<th>🔄 Sharpening</th>
+<th>🚀 Exploring Next</th>
+</tr>
+<tr>
+<td>
+
+Full-Stack MERN
+REST APIs
+JWT / OAuth
+MongoDB
+React
+Node.js
+AI Integration
+Real-Time Apps
+
+</td>
+<td>
+
+TypeScript
+System Design
+Testing
+API Architecture
+Performance
+
+</td>
+<td>
+
+Docker & CI/CD
+Cloud Architecture
+Advanced DevOps
+Scalable Systems
+Advanced AI Products
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💼 Experience
+
+### Full Stack Web Development Intern
+
+**Pantech.AI — Jan 2026 to Apr 2026**
+
+* Full-stack feature development
+* Frontend/backend integration
+* REST API development
+* Database-driven modules
+
+### Full Stack Development Intern
+
+**NoviTech R&D Pvt Ltd — Apr 2026 to May 2026**
+
+* Full-stack development
+* Modern web development practices
+* Team-based engineering workflows
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jathugulan&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=4F46E5&icon_color=059669"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jathugulan&layout=compact&hide_border=true&theme=transparent&title_color=4F46E5"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jathugulan&hide_border=true&theme=transparent&ring=4F46E5&fire=059669&currStreakLabel=4F46E5" width="70%"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jathugulan&bg_color=ffffff&color=334155&line=4F46E5&point=059669&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jathugulan&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Jathugulan/Jathugulan/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+# 🧭 Engineering Principles
+
+```text
+01  Build for real users
+02  Keep architecture modular
+03  Design APIs before implementation
+04  Protect every sensitive endpoint
+05  Validate data at system boundaries
+06  Keep UI responsive and accessible
+07  Prefer reusable components
+08  Separate business logic from presentation
+09  Test before deployment
+10  Continuously learn and improve
+```
+
+---
+
+# 🌟 What I Build
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/WEB_APPS-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_APIs-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_APPLICATIONS-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REAL_TIME_APPS-E11D48?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ERP_SYSTEMS-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/E_COMMERCE-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BOOKING_PLATFORMS-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDUCATIONAL_APPS-16A34A?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🤝 Open to Opportunities
+
+I'm open to:
+
+* 💼 Full Stack Developer internships
+* 💻 Software Engineering opportunities
+* 🚀 MERN Stack projects
+* 🤖 AI-integrated application development
+* 🤝 Open-source collaboration
+* 🧩 Technical project collaboration
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Jathugulan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/raveendran-jathugulan/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-pi-sepia-30.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:jathugulan2022@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**"Build useful things. Solve real problems. Keep learning."**
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,50:4F46E5,100:1E1B4B&height=120&section=footer" width="100%"/>
 
 </div>
