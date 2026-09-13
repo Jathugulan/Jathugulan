@@ -7,17 +7,17 @@
 <!-- Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:312E81,70:4F46E5,100:059669&height=220&section=header&text=Raveendran%20Jathugulan&fontSize=40&fontColor=FFFFFF&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20Engineer&descSize=17&descAlignY=53&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:312E81,70:4F46E5,100:059669&height=220&section=header&text=Raveendran%20Jathugulan&fontSize=40&fontColor=FFFFFF&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=17&descAlignY=53&animation=fadeIn" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Raveendran Jathugulan 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer</strong> · Full Stack Engineering · Modern Web Applications · Frontend & Backend Development
+  <strong>Software Engineer</strong> · Full Stack Developer · Modern Web Applications
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=4F46E5&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Engineer;Building+Modern+Web+Applications;Frontend+%2B+Backend+Engineering;Designing+Scalable+Applications;Turning+Ideas+Into+Software" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=4F46E5&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Developer;Building+Modern+Web+Applications;Frontend+%2B+Backend+Engineering;Designing+Scalable+Applications;Turning+Ideas+Into+Software" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 
 ## 👨‍💻 About Me
 
-I am **Raveendran Jathugulan**, a **Software Engineer and Full Stack Engineer** from Sri Lanka, focused on building modern, scalable and user-focused web applications across frontend, backend and database layers.
+I am **Raveendran Jathugulan**, a **Software Engineer and Full Stack Developer** from Sri Lanka, focused on building modern, scalable and user-focused web applications across frontend, backend and database layers.
 
 * 🎓 **Education:** BICT (Hons.) — University of Vavuniya
 * 💻 **Specialization:** Full Stack Software Engineering
@@ -596,7 +596,7 @@ Coursera
 
 I'm interested in:
 
-**Software Engineering** · **Full Stack Engineering** · **Web Application Development** · **Collaborative Projects** · **Open Source**
+**Software Engineering** · **Full Stack Developer** · **Web Application Development** · **Collaborative Projects** · **Open Source**
 
 ---
 
